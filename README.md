@@ -12,3 +12,12 @@ In this repo, we move beyond simple "input-output" loops. The agents here demons
 *   **Autonomy**: Defining a high-level goal and letting the agent determine the necessary path to completion.
 
 🛠️ **Project Structure**
+
+🚀 **Getting Started**
+
+1.   **Clone the repo**: git clone https://github.com/nguyenhv75/agentic-ai.git
+1.   **Install dependencies**: pip install -r requirements.txt
+2.   **Set your API keys**: Create a .env file with your provider keys.
+2.   **Run the demo**: python main.py
+
+**Note**: Agentic AI is an evolving field. The goal of this repository is to document the "Best Practices" for building reliable, steerable, and safe autonomous systems.
