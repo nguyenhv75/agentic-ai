@@ -13,6 +13,10 @@ In this repo, we move beyond simple "input-output" loops. The agents here demons
 
 🛠️ **Project Structure**
 
+<img width="407" height="205" alt="Project_Structure" src="https://github.com/user-attachments/assets/57c3e69a-12fb-4936-a830-77a31b6680a1" />
+
+
+
 🚀 **Getting Started**
 
 1.   **Clone the repo**: git clone https://github.com/nguyenhv75/agentic-ai.git
