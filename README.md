@@ -1,6 +1,3 @@
-# agentic-ai
-Exploring the frontier of Agentic AI: Code and examples showcasing LLMs that don't just talk, but 'do.' Covers autonomous reasoning, tool integration, and goal-oriented AI agents.
-
 # Agentic AI: From Chatbots to Autonomous Agents
 
 This repository serves as a practical guide and code showcase for building Agentic AI systems. While traditional LLM implementations focus on passive text generation, this project explores the transition to autonomous agents that can reason, use tools, and execute multi-step tasks to achieve a specific goal.
